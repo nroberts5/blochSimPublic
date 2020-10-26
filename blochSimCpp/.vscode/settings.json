@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "*.e": "cpp",
+        "*.cmake": "makefile",
+        "armadillo": "cpp",
+        "complex": "cpp",
+        "limits": "cpp",
+        "chrono": "cpp",
+        "iostream": "cpp",
+        "cmath": "cpp",
+        "random": "cpp",
+        "ostream": "cpp",
+        "*.ipp": "cpp",
+        "bitset": "cpp",
+        "ctime": "cpp",
+        "*.tcc": "cpp"
+    }
+}
